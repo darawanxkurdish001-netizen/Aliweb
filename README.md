@@ -113,7 +113,7 @@ AI Web
 
 <main>
 
-  <!-- API KEY -->AIzaSyBeajRvb8hEChm7eS4QZvZJ1VpurO_Wbiw
+  <!-- API KEY -->
   <div class="api-key-box">
     <label>Your Gemini API Key:</label>
     <input type="text" id="apiKey" placeholder="Paste your Gemini 2.5 Flash API Key here">
